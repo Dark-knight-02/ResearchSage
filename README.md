@@ -3,7 +3,8 @@
 ResearchSage is a cutting-edge tool designed to enhance text processing and analysis capabilities by leveraging advanced machine learning models and frameworks.
 
 
-<img width="1470" alt="Screenshot 2024-11-11 at 5 47 19 AM" src="https://github.com/user-attachments/assets/86cec135-989e-41ab-a55f-3bc33386d2ac">
+<img width="1470" alt="Screenshot 2024-11-11 at 6 59 40 AM" src="https://github.com/user-attachments/assets/6063360d-d759-4c61-826e-9bddf2bb24a0">
+
 
 <img width="1469" alt="Screenshot 2024-11-11 at 6 51 08 AM" src="https://github.com/user-attachments/assets/4639c183-d18f-450a-8b16-e43a18e7d5fa">
 
