@@ -84,7 +84,12 @@ Before launching the application, make sure you have the following prerequisites
      .\your_env\Scripts\activate   # On Windows
      ```
 
-4. **Start the Application**
+4. **Start the Research Paper Fetcher Application**
+   - Run the application using Streamlit:
+     ```bash
+     streamlit run updated_app.py
+     ```
+5. **Start the Chatbot Application**
    - Run the application using Streamlit:
      ```bash
      streamlit run app.py
