@@ -66,7 +66,7 @@ if st.button("Fetch Papers"):
                     st.markdown(f"- **{paper['title']}** by {paper['authors']} [Link]({paper['link']})")
                 if st.button("Initiate chatbot"):
                     download_and_merge_pdfs([paper['link'] for paper in papers], topic)
-                    su
+
                     
             else:
                 st.warning("No papers found for the given criteria.")
